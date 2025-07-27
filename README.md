@@ -3,7 +3,7 @@
 **Parse-IT** is a simple yet powerful React-based web utility that parses Unix-style `/etc/passwd` files. It extracts usernames and UIDs from colon-separated data, providing a minimal interface for system administrators, educators, or anyone dealing with Linux system logs.
 
 ---
-
+## Website : https://parseit.netlify.app/
 ## 🚀 Features
 
 - 📄 Paste any Unix `/etc/passwd`-style file
